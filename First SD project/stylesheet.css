@@ -1,0 +1,33 @@
+
+body
+{
+    background-color: black;
+    font-family: 'Ninja Naruto', sans-serif;
+    color: red;
+}
+
+h1,h2
+{
+    color: red;
+}
+
+p{
+    color: red;
+}
+a{
+    color: red;
+}
+
+.button {
+    background-color: red;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: center;
+  }
